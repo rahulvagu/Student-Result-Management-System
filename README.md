@@ -7,7 +7,6 @@ It allows entering subject-wise marks and automatically calculates total, percen
 The database is designed using relational tables such as students, subjects, and results to maintain accurate academic records.
 This project helped me implement backend logic for real-time result computation and efficient data retrieval.
 ---
-
 ## 🚀 Features
 
 - Add student details
