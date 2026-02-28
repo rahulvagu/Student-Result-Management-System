@@ -2,7 +2,10 @@
 
 A web-based Student Result Management System developed using **Flask** and **MySQL** to store, manage, and publish student academic results.  
 The system automates total, percentage, and grade calculation and provides an easy interface to view and update results.
-
+The Student Result Management System is a Flask and MySQL based web application used to store and process student academic results.
+It allows entering subject-wise marks and automatically calculates total, percentage, and grade for each student.
+The database is designed using relational tables such as students, subjects, and results to maintain accurate academic records.
+This project helped me implement backend logic for real-time result computation and efficient data retrieval.
 ---
 
 ## 🚀 Features
